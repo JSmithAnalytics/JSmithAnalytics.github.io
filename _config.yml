@@ -1,9 +1,13 @@
 title: Jennifer Smith # your name (or website title) here
 logo: "/images/Profile_Pic_Circle.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Analytics projects 
+  A collection of analytics projects 
   <br><br>
-  <a href="https://www.linkedin.com/in/jennifersmithmequon/">View My LinkedIn Profile</a> 
+  Master of Science, Business Analytics (MSBA)
+  Drake University
+  December 2022 graduation
+  <br><br>
+  <a href="https://www.linkedin.com/in/jennifersmithmequon/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
