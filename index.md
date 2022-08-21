@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](/pdf/Smith Project_Wind & Solar Energy Production, Growth, and CO2 Emissions by Country.htm)
+<img src="images/Solar & Wind Thumbnail.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
