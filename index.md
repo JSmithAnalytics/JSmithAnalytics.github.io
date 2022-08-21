@@ -20,7 +20,7 @@
 ### Papers & Other
 
 - [Data Visualization Best Practices](http://example.com/)
-- [Poor Data Viz Example & Fix](/html_files/Smith Project_Fix a Poor Data Visualization.pdf)
+- [Poor Data Viz Example & Fix](pdf/Smith Project_Fix a Poor Data Visualization.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
