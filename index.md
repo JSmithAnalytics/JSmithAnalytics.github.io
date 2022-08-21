@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Analytics Projects 
 
 [Wind & Solar Production and CO2 Emissions by Country](/pdf/Smith Project_Wind & Solar Energy Production, Growth, and CO2 Emissions by Country.htm)
 <img src="images/Solar & Wind Thumbnail.png"/>
@@ -17,10 +17,10 @@
 
 ---
 
-### Category Name 2
+### Papers & Other
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Data Visualization Best Practices](http://example.com/)
+- [Poor Data Viz Example & Fix](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
