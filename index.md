@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/pdf/Smith Project_Wind & Solar Energy Production, Growth, and CO2 Emissions by Country.htm)
+[Wind & Solar Production and CO2 Emissions by Country](/pdf/Smith Project_Wind & Solar Energy Production, Growth, and CO2 Emissions by Country.htm)
 <img src="images/Solar & Wind Thumbnail.png"/>
 
 ---
