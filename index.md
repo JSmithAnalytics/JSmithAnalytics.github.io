@@ -12,8 +12,8 @@
 <img src="images/Women in Movies Thumbnail.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Political Seats Held by Women: By Country & Year](html_files/SmithProject_Political_Seats_Women_Share_Jun2022 (1).html)
+<img src="images/Politcal Seats Thumbnail.png"/>
 
 ---
 
