@@ -17,13 +17,11 @@
 
 ---
 
-### Papers & Other
+### Papers & Other Projects
 
 - [Data Visualization Best Practices](pdf/Design Principles for Data Visualization.pdf)
 - [Poor Data Viz Example & Fix](pdf/Smith Project_Fix a Poor Data Visualization.pdf)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
