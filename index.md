@@ -8,6 +8,10 @@
 <img src="images/Solar & Wind Thumbnail.png"/>
 
 ---
+[ML Predicting High-Opportunity Customers](html_files/SmithProject_ML Predicting Hi-Opp Customers.html)
+<img src="images/ML Prediction Thumbnail.png"/>
+
+---
 [Women In Movies: Bechdel Test Results Over Time](/html_files/SmithProject_Women In Movies.html)
 <img src="images/Women in Movies Thumbnail.png"/>
 
