@@ -4,8 +4,8 @@
 
 ### Analytics Projects 
 
-[Disadvantage Factors by Community Type (slides)](pdf/Slides_Disadvantage Factors in Communities.pdf)<br />
-[Disadvantage Factors by Community Type (notebook)](html_files/Python Notebook_Disadvantage Factors in Communities.html)
+[Disadvantage Factors by Community Type (slides)](pdf/Slides_Disadvantage Factors in Communities.pdf)
+[(notebook)](html_files/Python Notebook_Disadvantage Factors in Communities.html)
 <img src="images/Communities Thumbnail.png"/>
 
 ---
