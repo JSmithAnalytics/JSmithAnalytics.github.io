@@ -5,8 +5,9 @@
 ### Analytics Projects 
 
 [Disadvantage Factors by Community Type (slides)](pdf/Slides_Disadvantage Factors in Communities.pdf)
+
 [Disadvantage Factors by Community Type (notebook)](html_files/Python Notebook_Disadvantage Factors in Communities.html)
-<img src="images/Communities Thumbnail.pngg"/>
+<img src="images/Communities Thumbnail.png"/>
 
 
 [Wind & Solar Production and CO2 Emissions by Country](/html_files/Smith Project_Wind & Solar Energy Production, Growth, and CO2 Emissions by Country.htm)
