@@ -8,7 +8,7 @@ Disadvantage Factors by Community Type [(slides)](pdf/Slides_Disadvantage Factor
 <img src="images/Communities Thumbnail.png"/>
 
 ---
-[Wind & Solar Production and CO2 Emissions by Country](/html_files/Smith Project_Wind & Solar Energy Production, Growth, and CO2 Emissions by Country.htm)
+[Wind & Solar Production and CO2 Emissions by Country](pdf/Smith Project_Wind & Solar Energy Production, Growth, and CO2 Emissions by Country.pdf)
 <img src="images/Solar & Wind Thumbnail.png"/>
 
 ---
